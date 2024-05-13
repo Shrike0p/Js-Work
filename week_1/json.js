@@ -31,3 +31,5 @@ console.log(Math.max(5,10,15))
 console.log(Math.min(5,10,15))
 console.log(Math.pow(10,15))
 console.log(Math.sqrt(4))
+
+check this out cool features
