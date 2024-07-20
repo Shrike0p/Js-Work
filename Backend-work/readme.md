@@ -111,13 +111,13 @@ DATABASE_URL: MongoDB connection string.
 JWT_SECRET: Secret key for signing JWT tokens.
 
 # Validation Checks
-When a user is less than 20 years
+## When a user is less than 20 years
 ![image](https://github.com/user-attachments/assets/f24fa54f-19e8-45d3-becc-07b6665767c8)
 
-When the salary is less than 25000
+## When the salary is less than 25000
 ![image](https://github.com/user-attachments/assets/10d8017b-758b-4963-9d04-ac16d19d96a1)
 
-Strong password check
+## Strong password check
 ![image](https://github.com/user-attachments/assets/ca215d9d-15d7-446b-8720-abca3989f5f4)
 
 
