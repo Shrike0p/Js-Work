@@ -93,6 +93,8 @@ This application allows users to sign up, log in, view their user details, and b
 - 403 Forbidden if the token is invalid or if the input validation fails.
 - 404 Not Found if the user is not found.
 
+# MongoDB Dashboard
+![image](https://github.com/user-attachments/assets/7b8a8661-7380-4b8d-92ab-c67e938397cf)
 
 # Utility Functions
 **calculateAge(dob)**
