@@ -86,3 +86,11 @@ To use the application:
 1.  Open your web browser.
 2.  Go to `http://localhost:3000` to view the application.
 3.  Follow on-screen instructions to interact with the application.
+
+## Additional Information
+
+-   **Testing**: Run tests using `npm test` or `yarn test`.
+-   **Building**: Build the production version using `npm run build` or `yarn build`.
+-   **Deployment**: Follow your deployment process to deploy the built application.
+
+For any issues or further assistance, please refer to the project's documentation or contact the project maintainers.
