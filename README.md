@@ -7,8 +7,6 @@
 2.  [Setup Instructions](#setup-instructions)
 3.  [Usage](#usage)
 4.  [Login with Gmail](#login-with-gmail)
-5.  [Connecting Slack](#connecting-slack)
-6.  [Additional Information](#additional-information)
 
 ## Prerequisites
 
