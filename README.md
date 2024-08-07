@@ -6,7 +6,6 @@
 1.  [Prerequisites](#prerequisites)
 2.  [Setup Instructions](#setup-instructions)
 3.  [Usage](#usage)
-4.  [Login with Gmail](#login-with-gmail)
 
 ## Prerequisites
 
