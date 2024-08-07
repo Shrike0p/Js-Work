@@ -56,12 +56,10 @@ Before setting up the frontend, ensure you have the following installed:
     
     Create a `.env` file in the root of the frontend directory and add the necessary environment variables. Example:
     
-    makefile
-    
-    Copy code
-    
-    `REACT_APP_API_URL=https://www.themealdb.com/api/json/v1/1/categories.php
-    REACT_APP_GOOGLE_CLIENT_ID=https://www.themealdb.com/api/json/v1/1/search.php?s=` 
+    ```
+    REACT_APP_API_URL=https://www.themealdb.com/api/json/v1/1/categories.php
+    REACT_APP_GOOGLE_CLIENT_ID=https://www.themealdb.com/api/json/v1/1/search.php?s=
+    ```
     
 4.  **Start the Development Server**
     
