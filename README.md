@@ -24,14 +24,14 @@ Before setting up the frontend, ensure you have the following installed:
     
     ```bash
     
-    git clone https://github.com/Shrike0p/Js-Work/edit/master.git
+    git clone https://github.com/Shrike0p/Js-Work/tree/master
     ``` 
     
     Navigate to the frontend directory:
     
       ```bash
     
-    cd YourRepository/frontend
+    cd [YourRepository name]
     ``` 
     
 2.  **Install Dependencies**
