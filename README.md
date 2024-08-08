@@ -24,7 +24,7 @@ Before setting up the frontend, ensure you have the following installed:
     
     ```bash
     
-    git clone https://github.com/YourUsername/YourRepository.git
+    git clone https://github.com/Shrike0p/Js-Work/edit/master.git
     ``` 
     
     Navigate to the frontend directory:
